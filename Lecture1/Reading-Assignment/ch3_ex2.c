@@ -15,5 +15,4 @@ int main(void){
 	printf ("|%10.3f|%10.3e|%-10g|\n", x, x, x, x);
 
 	return 0;
-
 }
